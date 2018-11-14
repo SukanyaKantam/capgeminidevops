@@ -2,7 +2,8 @@ class A{
 
 void welcome() {
 }
-void add()
+void add(intx,inty)
 {
+int r=x+y;
 }
 }
