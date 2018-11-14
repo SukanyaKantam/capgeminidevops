@@ -7,3 +7,6 @@ void add(intx,inty)
 int r=x+y;
 }
 }
+void null()
+{
+}
